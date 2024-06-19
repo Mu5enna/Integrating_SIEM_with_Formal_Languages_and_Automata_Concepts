@@ -1,0 +1,112 @@
+Possible Violation! - EventID: 4625	 - Computer Name: DESKTOP-2K7ZYGM - Violation Date: 31.05.2024 11:52:24	
+
+Possible Violation! - EventID: 4625	 - Computer Name: DESKTOP-Y4NL1SS - Violation Date: 29.05.2024 21:07:20	
+
+Possible Violation! - EventID: 4625	 - Computer Name: DESKTOP-Y4NL1SS - Violation Date: 29.05.2024 21:07:35	
+
+Possible Violation! - EventID: 4625	 - Computer Name: DESKTOP-Y4NL1SS - Violation Date: 29.05.2024 21:08:01	
+
+Banned: DESKTOP-Y4NL1SS as it reached 3 critical events on 29.05.2024 00:00:00
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:08:43	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:10:24	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:10:25	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:11:50	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:11:51	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:13:39	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:13:39	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:15:38	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:15:38	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:23:28	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:33:35	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:48:31	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 21:58:05	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 22:02:22	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 22:03:43	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 29.05.2024 22:36:58	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 01:16:26	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 15:41:01	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 15:41:01	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 15:41:04	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 15:41:04	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 15:41:20	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 15:41:20	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 15:41:20	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 15:41:21	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 15:41:22	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 15:44:21	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 18:02:59	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 20:31:24	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 20:31:27	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 21:10:56	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 21:11:00	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 21:13:12	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 30.05.2024 21:13:12	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 31.05.2024 00:22:58	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 31.05.2024 09:01:23	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 31.05.2024 09:01:27	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 31.05.2024 10:55:04	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 31.05.2024 11:51:43	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 31.05.2024 12:11:48	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 31.05.2024 13:16:50	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 31.05.2024 13:16:56	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 31.05.2024 13:33:21	.
+
+Already banned computer DESKTOP-Y4NL1SS attempted an operation at 31.05.2024 13:33:21	.
+
+Possible Violation! - EventID: 4625	 - Computer Name: DESKTOP-Y4NLA2A - Violation Date: 29.05.2024 21:07:35	
+
+Possible Violation! - EventID: 4625	 - Computer Name: DESKTOP-Y4NLA2A - Violation Date: 29.05.2024 21:07:50	
+
+Possible Violation! - EventID: 4625	 - Computer Name: DESKTOP-Y4NLA2A - Violation Date: 29.05.2024 21:08:01	
+
+Banned: DESKTOP-Y4NLA2A as it reached 3 critical events on 29.05.2024 00:00:00
+
+Already banned computer DESKTOP-Y4NLA2A attempted an operation at 31.05.2024 13:33:21	.
+
+Already banned computer DESKTOP-Y4NLA2A attempted an operation at 31.05.2024 13:34:21	.
+
+Already banned computer DESKTOP-Y4NLA2A attempted an operation at 31.05.2024 13:35:21	.
+
